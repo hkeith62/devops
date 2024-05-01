@@ -1,3 +1,10 @@
+/**
+  Title: Index.js
+  Author: Keith Hall
+  Date: 09/14/2023 
+  version: 2.0.0
+  Description: HTML head componen.
+*/
 class Head extends HTMLElement
 {
     constructor() {
